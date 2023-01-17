@@ -9,5 +9,5 @@ Technologies
 
 Launch
 ```
-https://github.com/vrothx00/chatty-bot.git
+https://github.com/vrothx00/python-projects
 ```
